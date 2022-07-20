@@ -17,8 +17,8 @@ The application is composed of 3 screens which will have the following functiona
 - View and upload photos
 - See photos of others
 
-We can use a Tab Navigation to navigate between these 3 screens.</br>
-With each icon allowing to go to the corresponding page.
+We can use a Tab Navigation to navigate between these 3 screens</br>
+With each icon allowing to go to the corresponding page
 
 ### Prerequisites
 
